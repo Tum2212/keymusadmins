@@ -7,3 +7,7 @@ npm-debug.log
 yarn-error.log
 public/assets/images/products/
 public/assets/images/products/
+node_modules/
+.env
+# Local sqlite DBs
+*.sqlite*
